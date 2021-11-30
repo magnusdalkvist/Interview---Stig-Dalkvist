@@ -141,6 +141,11 @@ section {
   gap: 20px;
 }
 
+.layoutdiagram {
+  max-width: 800px;
+  margin: auto;
+}
+
 @media (max-width: 725px) {
   .heading h1 {
     font-size: 5em;
